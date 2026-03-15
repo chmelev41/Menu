@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KinoSphere - Меню</title>
     <style>
-        /* Стили в стиле современных кинотеатров (тёмная тема) */
         * {
             margin: 0;
             padding: 0;
